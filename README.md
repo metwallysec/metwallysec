@@ -21,13 +21,12 @@ That’s why I build tools that help me **track time, analyze behavior, and lear
 ---
 
 ## 🧰 Skills & Interests
-- Web Application Security
-- Bug Bounty Methodology
-- JavaScript (Vanilla)
-- HTML / CSS
-- Browser-based tools
-- localStorage & client-side logic
-- Productivity systems & self-tracking
+
+- Web application security and bug bounty learning
+- Building and testing browser-based tools
+- JavaScript (vanilla) with HTML & CSS
+- Client-side logic, localStorage, and data handling
+- Productivity systems, time tracking, and self-tracking
 
 ---
 

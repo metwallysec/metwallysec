@@ -7,6 +7,7 @@ That’s why I build tools that help me **track time, analyze behavior, and lear
 
   <p align="left">
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=hackerone" />
+    <span>    </span>
   <img src="https://img.shields.io/badge/Web%20Security-Pentesting-blue?style=for-the-badge&logo=owasp" />
 </p>
 

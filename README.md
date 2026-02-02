@@ -5,8 +5,8 @@ I'm a **bug bounty hunter** and **security-focused builder** who enjoys understa
 I believe productivity, security, and clarity are connected.  
 That’s why I build tools that help me **track time, analyze behavior, and learn consistently**.
 
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunter-orange)
-![Web Security](https://img.shields.io/badge/Web-Security-blue)
+  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=hackerone" />
+  <img src="https://img.shields.io/badge/Web%20Security-Pentesting-blue?style=for-the-badge&logo=owasp" />
 
 ---
 
